@@ -1,1 +1,2 @@
 # Task-Tracker
+The Note App is a feature-rich Android application developed using Kotlin and Room database, designed to help users manage their notes efficiently. It offers a clean and intuitive interface for creating, viewing, updating, and deleting notes, ensuring a seamless user experience. The app fully supports CRUD (Create, Read, Update, Delete) operations, making it an ideal tool for personal and professional note-taking needs.
